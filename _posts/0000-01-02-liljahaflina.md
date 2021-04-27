@@ -2,5 +2,5 @@
 Hi: slide
 Lilja: "Welcome to our second slide!"
 ---
-Your text
+Adding a new text here
 Use the left arrow to go back!
